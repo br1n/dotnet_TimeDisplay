@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb
